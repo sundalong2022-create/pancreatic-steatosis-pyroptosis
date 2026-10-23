@@ -28,3 +28,7 @@ The code is provided to document and support the reported analyses. Some externa
 - `scripts/50_mouse_immune_partial_spearman_by_diet.py` reproduces the exploratory diet-group-adjusted mouse immune-module sensitivity table (Table S11).
 
 The S10 outputs are exploratory conditional bulk-transcriptomic associations. The Zuo score is a standardized directional proxy because the published expression scale was not fully reproducible; the Xie panel is descriptive only. The S10 and S11 scripts require the project input/results layout described above and do not download or redistribute raw data.
+
+## Versioned submission results
+
+The derived figures, tables, Additional files, English legends, manifest and SHA-256 checksums staged for the BMC Genomics submission are published as the [v1.2.0 submission-results release](https://github.com/sundalong2022-create/pancreatic-steatosis-pyroptosis/releases/tag/v1.2.0). The downloadable package is [pancreatic-steatosis-pyroptosis-results-v1.2.0.zip](https://github.com/sundalong2022-create/pancreatic-steatosis-pyroptosis/releases/download/v1.2.0/pancreatic-steatosis-pyroptosis-results-v1.2.0.zip) with SHA-256 `828e25a48b39fe28253bc7911ba6024d251c0f601da19fdd49580b243be46ef9`. It contains derived submission outputs only; raw matrices and private credentials are not redistributed. Supplementary Figures S1–S8 are the original project TIFFs, S10 is the completed sensitivity figure, and S9 is a reproducibility supplementary table without a separate figure.
