@@ -21,3 +21,10 @@ The scripts use R and Python packages declared in their imports. Package require
 ## Reproducibility scope
 
 The code is provided to document and support the reported analyses. Some external-cohort scripts use processed matrices or project-derived intermediate files, and the original preprocessing for those cohorts may not be recoverable. Do not interpret those scripts as establishing a uniform pipeline across datasets.
+
+## Final supplementary analyses
+
+- `scripts/47_s10_signature_audit.R`, `scripts/48_s10_incremental_models.R`, and `scripts/49_run_published_proxy_audit.R` reproduce the S10 comparator-overlap, conditional-association, nested-model, VIF, and published-proxy audit outputs staged with the manuscript.
+- `scripts/50_mouse_immune_partial_spearman_by_diet.py` reproduces the exploratory diet-group-adjusted mouse immune-module sensitivity table (Table S11).
+
+The S10 outputs are exploratory conditional bulk-transcriptomic associations. The Zuo score is a standardized directional proxy because the published expression scale was not fully reproducible; the Xie panel is descriptive only. The S10 and S11 scripts require the project input/results layout described above and do not download or redistribute raw data.
