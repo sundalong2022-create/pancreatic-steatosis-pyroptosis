@@ -1,0 +1,40 @@
+file	matrix_column	gsm	sample_title	group
+GSE292815_KC_12wk_NormalizedCounts.csv.gz	CD_M_1	GSM8865799	pancreas, CD, 12-week on diet, male, 390	CD_12wk
+GSE292815_KC_12wk_NormalizedCounts.csv.gz	CD_M_2	GSM8865800	pancreas, CD, 12-week on diet, male, 395	CD_12wk
+GSE292815_KC_12wk_NormalizedCounts.csv.gz	CD_M_3	GSM8865801	pancreas, CD, 12-week on diet, male, 428	CD_12wk
+GSE292815_KC_12wk_NormalizedCounts.csv.gz	CD_M_4	GSM8865802	pancreas, CD, 12-week on diet, male, 431	CD_12wk
+GSE292815_KC_12wk_NormalizedCounts.csv.gz	CD_M_5	GSM8865803	pancreas, CD, 12-week on diet, male, 962	CD_12wk
+GSE292815_KC_12wk_NormalizedCounts.csv.gz	Safflower_M_1	GSM8865804	pancreas, Safflower, 12-week on diet, male, 721	Safflower_12wk
+GSE292815_KC_12wk_NormalizedCounts.csv.gz	Safflower_M_2	GSM8865805	pancreas, Safflower, 12-week on diet, male, 726	Safflower_12wk
+GSE292815_KC_12wk_NormalizedCounts.csv.gz	Safflower_M_3	GSM8865806	pancreas, Safflower, 12-week on diet, male, 733	Safflower_12wk
+GSE292815_KC_12wk_NormalizedCounts.csv.gz	Safflower_M_4	GSM8865807	pancreas, Safflower, 12-week on diet, male, 736	Safflower_12wk
+GSE292815_KC_12wk_NormalizedCounts.csv.gz	Safflower_M_5	GSM8865808	pancreas, Safflower, 12-week on diet, male, 1314	Safflower_12wk
+GSE292815_KC_12wk_NormalizedCounts.csv.gz	Sunflower_M_1	GSM8865813	pancreas, Sunflower, 12-week on diet, male, 1510	Sunflower_12wk
+GSE292815_KC_12wk_NormalizedCounts.csv.gz	Sunflower_M_4	GSM8865814	pancreas, Sunflower, 12-week on diet, male, 3748	Sunflower_12wk
+GSE292815_KC_12wk_NormalizedCounts.csv.gz	Sunflower_M_6	GSM8865815	pancreas, Sunflower, 12-week on diet, male, 3762	Sunflower_12wk
+GSE292815_KC_12wk_NormalizedCounts.csv.gz	Sunflower_M_8	GSM8865816	pancreas, Sunflower, 12-week on diet, male, 3770	Sunflower_12wk
+GSE292815_KC_12wk_NormalizedCounts.csv.gz	HO_Safflower_M_1	GSM8865809	pancreas, HO Safflower, 12-week on diet, male, 683	HO_Safflower_12wk
+GSE292815_KC_12wk_NormalizedCounts.csv.gz	HO_Safflower_M_2	GSM8865810	pancreas, HO Safflower, 12-week on diet, male, 685	HO_Safflower_12wk
+GSE292815_KC_12wk_NormalizedCounts.csv.gz	HO_Safflower_M_3	GSM8865811	pancreas, HO Safflower, 12-week on diet, male, 688	HO_Safflower_12wk
+GSE292815_KC_12wk_NormalizedCounts.csv.gz	HO_Safflower_M_4	GSM8865812	pancreas, HO Safflower, 12-week on diet, male, 1234	HO_Safflower_12wk
+GSE292815_KC_12wk_NormalizedCounts.csv.gz	HO_Sunflower_M_3	GSM8865817	pancreas, HO Sunflower, 12-week on diet, male, 663	HO_Sunflower_12wk
+GSE292815_KC_12wk_NormalizedCounts.csv.gz	HO_Sunflower_M_4	GSM8865818	pancreas, HO Sunflower, 12-week on diet, male, 897	HO_Sunflower_12wk
+GSE292815_KC_12wk_NormalizedCounts.csv.gz	HO_Sunflower_M_6	GSM8865819	pancreas, HO Sunflower, 12-week on diet, male, 877	HO_Sunflower_12wk
+GSE292815_KC_3wk_NormalizedCounts.csv.gz	Safflower_1	GSM8865820	pancreas, Safflower, 3-week on diet, male, 1880	Safflower_3wk
+GSE292815_KC_3wk_NormalizedCounts.csv.gz	Safflower_2	GSM8865821	pancreas, Safflower, 3-week on diet, male, 8781	Safflower_3wk
+GSE292815_KC_3wk_NormalizedCounts.csv.gz	Safflower_4	GSM8865822	pancreas, Safflower, 3-week on diet, male, 3_5	Safflower_3wk
+GSE292815_KC_3wk_NormalizedCounts.csv.gz	Safflower_5	GSM8865823	pancreas, Safflower, 3-week on diet, male, 3_7	Safflower_3wk
+GSE292815_KC_3wk_NormalizedCounts.csv.gz	HO_Safflower_1	GSM8865824	pancreas, HO Safflower, 3-week on diet, male, 2288	HO_Safflower_3wk
+GSE292815_KC_3wk_NormalizedCounts.csv.gz	HO_Safflower_2	GSM8865825	pancreas, HO Safflower, 3-week on diet, male, 2342	HO_Safflower_3wk
+GSE292815_KC_3wk_NormalizedCounts.csv.gz	HO_Safflower_3	GSM8865826	pancreas, HO Safflower, 3-week on diet, male, 2343	HO_Safflower_3wk
+GSE292815_KC_3wk_NormalizedCounts.csv.gz	HO_Safflower_4	GSM8865827	pancreas, HO Safflower, 3-week on diet, male, 1568	HO_Safflower_3wk
+GSE292815_KCO_8wk_NormalizedCounts.csv.gz	KCO_Safflower_1	GSM8865828	pancreas, Safflower, 8-week on diet, female, K_1	KCO_Safflower_8wk
+GSE292815_KCO_8wk_NormalizedCounts.csv.gz	KCO_Safflower_2	GSM8865829	pancreas, Safflower, 8-week on diet, male, K_2	KCO_Safflower_8wk
+GSE292815_KCO_8wk_NormalizedCounts.csv.gz	KCO_Safflower_3	GSM8865830	pancreas, Safflower, 8-week on diet, male, K_3	KCO_Safflower_8wk
+GSE292815_KCO_8wk_NormalizedCounts.csv.gz	KCO_Safflower_4	GSM8865831	pancreas, Safflower, 8-week on diet, male, K_8	KCO_Safflower_8wk
+GSE292815_KCO_8wk_NormalizedCounts.csv.gz	KCO_Safflower_5	GSM8865832	pancreas, Safflower, 8-week on diet, female, K_10	KCO_Safflower_8wk
+GSE292815_KCO_8wk_NormalizedCounts.csv.gz	KCO_Safflower_6	GSM8865833	pancreas, Safflower, 8-week on diet, male, K_11	KCO_Safflower_8wk
+GSE292815_KCO_8wk_NormalizedCounts.csv.gz	KCO_Safflower_7	GSM8865834	pancreas, Safflower, 8-week on diet, female, K_12	KCO_Safflower_8wk
+GSE292815_KCO_8wk_NormalizedCounts.csv.gz	KCO_Safflower_8	GSM8865835	pancreas, Safflower, 8-week on diet, male, K_16	KCO_Safflower_8wk
+GSE292815_KCO_8wk_NormalizedCounts.csv.gz	KCO_Safflower_9	GSM8865836	pancreas, Safflower, 8-week on diet, female, K_17	KCO_Safflower_8wk
+GSE292815_KCO_8wk_NormalizedCounts.csv.gz	KCO_Safflower_11	GSM8865837	pancreas, Safflower, 8-week on diet, female, K_19	KCO_Safflower_8wk

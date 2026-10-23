@@ -1,0 +1,32 @@
+# Local operating-system and analysis state
+.DS_Store
+.Rhistory
+.Rapp.history
+.Rproj.user/
+.RData
+.Ruserdata
+__pycache__/
+*.py[cod]
+
+# Do not mirror raw/public cohort data or large local result directories
+/data/raw/
+/data/external/
+/data/reference/
+/results/
+
+# Generated exports and manuscript build outputs
+*.pdf
+*.tif
+*.tiff
+*.png
+*.h5
+*.rds
+*.rda
+*.RData
+*.tar
+*.xlsx
+*.mtx
+*.wig
+*.csv.gz
+submission_bmc_genomics/figures/
+submission_bmc_genomics/tables/
