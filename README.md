@@ -4,7 +4,7 @@ This public repository contains source scripts used for the PRII transcriptomic 
 
 ## Data
 
-Raw and processed expression matrices, TCGA sample-level data, large derived result matrices, rendered manuscript files, and figure exports are not redistributed here. The analyses use public GEO datasets GSE292815, GSE154778, GSE79668, GSE293790, GSE234956, GSE190812, and GSE249790, plus TCGA-PAAD through the NCI Genomic Data Commons. Obtain data from the original repositories and follow their terms of use. `data/metadata/matrix_sample_map.tsv` records the GSE292815 matrix-to-sample mapping used by the discovery scripts.
+Raw and processed expression matrices and TCGA sample-level clinical data are not redistributed. Derived figures, tables and numbered Additional files staged for the manuscript are available in the versioned v1.2.0 results release linked below. The analyses use public GEO datasets GSE292815, GSE154778, GSE79668, GSE293790, GSE234956, GSE190812, and GSE249790, plus TCGA-PAAD through the NCI Genomic Data Commons. Obtain data from the original repositories and follow their terms of use. `data/metadata/matrix_sample_map.tsv` records the GSE292815 matrix-to-sample mapping used by the discovery scripts.
 
 ## Code layout
 
